@@ -227,7 +227,7 @@ startpos = Main.Position
 Move.Active = true
 
 -- Scripts:
-hided = false
+hided = true
 hide.MouseButton1Click:Connect(function()
 	if hided == false then
 		hided = true
