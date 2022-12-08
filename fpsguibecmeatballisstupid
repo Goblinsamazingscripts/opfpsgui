@@ -597,3 +597,25 @@ delay(0, function()
 end)
 --warn("loaded")
 end)
+-- [[
+THIS IS SETS FOR FPS GUI
+DONT USE FOR ANYTHING ELSE
+                           ]]
+<local>
+
+
+<load//space.net>
+
+
+
+<loading..>
+
+
+
+
+
+Sets = {
+
+Bullet speed = 505 :  balli = -0.1 : speed 0.0356 
+
+ 
